@@ -1,0 +1,3 @@
+unique_id,timestamp,tag,period,rmse,model_version,model_version_note,runtime
+3bf31355-c158-4f1d-a6b9-91ddaeb1ebde,1606741601.646035,netherlands,"('2017-12-01', '2019-05-31')",{'rmse': 0.5},0.1,test model,00:00:01
+e48b331b-ebaf-4fa2-97fe-2e59fe655c62,1606741601.6473222,netherlands,"('2017-12-01', '2019-05-31')",{'rmse': 0.5},0.1,test model,00:00:01
